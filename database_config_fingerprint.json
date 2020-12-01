@@ -1,0 +1,1 @@
+{"database": "fingerprint", "user": "fingerprint_id", "password": "qwerty", "host": "localhost", "port": 5435, "table": "user_fingerprint"}
